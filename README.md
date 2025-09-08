@@ -1,4 +1,4 @@
-# Projekt 3: Czech Election Scraper 🇨🇿
+# Projekt 3: Elections Scraper
 Tento Python skript slouží ke stažení a zpracování dat o výsledcích voleb z webové stránky volby.cz. Skript prochází jednotlivé obce a ukládá důležité informace, jako je počet voličů, vydané obálky, platné hlasy a výsledky jednotlivých politických stran, do souboru ve formátu CSV.
 ## Instalace a spuštění
 Než skript spustíte, důrazně doporučujeme vytvořit a aktivovat virtuální prostředí (venv). Tím zajistíte izolaci závislostí vašeho projektu a předejdete možným konfliktům s jinými Python projekty na vašem systému.
